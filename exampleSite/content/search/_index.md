@@ -1,5 +1,5 @@
 ---
 title: "Search Result"
 draft: false
-description : "this is meta description"
+description : "search result, search, search engine, search bar"
 ---

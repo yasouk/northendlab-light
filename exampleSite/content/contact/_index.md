@@ -1,8 +1,8 @@
 ---
-title: "Contact Us"
+title: "Contact Me"
 draft: false
-description : "this is meta description"
+description : "contact me, email, phone, address, social media, contact form"
 image: "images/contact.svg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+N'hésitez point à m'interroger !
